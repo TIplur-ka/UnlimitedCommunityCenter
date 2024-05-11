@@ -1,0 +1,8 @@
+C:\Users\TIplur\source\repos\UnlimitedCommunityCenter\UnlimitedCommunityCenter\bin\Debug\net6.0\UnlimitedCommunityCenter.deps.json
+C:\Users\TIplur\source\repos\UnlimitedCommunityCenter\UnlimitedCommunityCenter\bin\Debug\net6.0\UnlimitedCommunityCenter.dll
+C:\Users\TIplur\source\repos\UnlimitedCommunityCenter\UnlimitedCommunityCenter\obj\Debug\net6.0\UnlimitedCommunityCenter.csproj.AssemblyReference.cache
+C:\Users\TIplur\source\repos\UnlimitedCommunityCenter\UnlimitedCommunityCenter\obj\Debug\net6.0\UnlimitedCommunityCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIplur\source\repos\UnlimitedCommunityCenter\UnlimitedCommunityCenter\obj\Debug\net6.0\UnlimitedCommunityCenter.AssemblyInfoInputs.cache
+C:\Users\TIplur\source\repos\UnlimitedCommunityCenter\UnlimitedCommunityCenter\obj\Debug\net6.0\UnlimitedCommunityCenter.AssemblyInfo.cs
+C:\Users\TIplur\source\repos\UnlimitedCommunityCenter\UnlimitedCommunityCenter\obj\Debug\net6.0\UnlimitedCommunityCenter.csproj.CoreCompileInputs.cache
+C:\Users\TIplur\source\repos\UnlimitedCommunityCenter\UnlimitedCommunityCenter\obj\Debug\net6.0\UnlimitedCommunityCenter.dll

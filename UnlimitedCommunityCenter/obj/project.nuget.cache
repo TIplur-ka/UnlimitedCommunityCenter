@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iX93V7ybs9Rq+xw3Kt1RIbgMCZ0O0iSon1jC/WKoOrTKPNOMP8PCMYGjaayqS+7AH7y5WfHr8Apshk5osotFqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TIplur\\source\\repos\\UnlimitedCommunityCenter\\UnlimitedCommunityCenter\\UnlimitedCommunityCenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TIplur\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
